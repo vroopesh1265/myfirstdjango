@@ -1,1 +1,2 @@
 # myfirstdjango
+From Windows machine
